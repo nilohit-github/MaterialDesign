@@ -8,6 +8,7 @@ import android.database.Cursor;
 import android.graphics.drawable.ColorDrawable;
 import android.os.Build;
 import android.os.Bundle;
+import android.support.design.widget.Snackbar;
 import android.support.v13.app.FragmentStatePagerAdapter;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.ActionBarActivity;
@@ -105,6 +106,9 @@ public class ArticleDetailActivity extends ActionBarActivity
                 mSelectedItemId = mStartId;
             }
         }
+
+        //Snackbar.make(findViewById(android.R.id.coo), "Swipe horizontally to view other contents !!", Snackbar.LENGTH_LONG).show();
+//        Snackbar.make(this.findViewById(R.id.coordinator), "Swipe horizontally to view other contents !!", Snackbar.LENGTH_LONG).show();
     }
 
     @Override

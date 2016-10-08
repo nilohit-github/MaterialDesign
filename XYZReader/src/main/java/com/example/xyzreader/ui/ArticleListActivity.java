@@ -7,15 +7,16 @@ import android.content.Intent;
 import android.content.IntentFilter;
 import android.content.Loader;
 import android.database.Cursor;
+import android.net.ConnectivityManager;
+import android.net.NetworkInfo;
 import android.os.Bundle;
+import android.support.design.widget.Snackbar;
 import android.support.v4.widget.SwipeRefreshLayout;
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.StaggeredGridLayoutManager;
 import android.support.v7.widget.Toolbar;
 import android.text.format.DateUtils;
-import android.util.TypedValue;
-import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
@@ -37,6 +38,7 @@ public class ArticleListActivity extends ActionBarActivity implements
     private Toolbar mToolbar;
     private SwipeRefreshLayout mSwipeRefreshLayout;
     private RecyclerView mRecyclerView;
+    Boolean internetAvailable;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -54,9 +56,27 @@ public class ArticleListActivity extends ActionBarActivity implements
         getLoaderManager().initLoader(0, null, this);
 
         if (savedInstanceState == null) {
-            refresh();
+
+            internetAvailable = isNetworkAvailable();
+            if(internetAvailable)
+                refresh();
+            else
+            {
+                Snackbar.make(findViewById(android.R.id.content), "No Internet connection :(", Snackbar.LENGTH_LONG).show();
+            }
         }
     }
+
+    private boolean isNetworkAvailable() {
+        ConnectivityManager manager = (ConnectivityManager)this.getSystemService(Context.CONNECTIVITY_SERVICE);
+        NetworkInfo networkInfo = manager.getActiveNetworkInfo();
+        boolean isAvailable = false;
+        if (networkInfo != null && networkInfo.isConnected()){
+            isAvailable = true;
+        }
+        return isAvailable;
+    }
+
 
     private void refresh() {
         startService(new Intent(this, UpdaterService.class));
