@@ -3,6 +3,15 @@
 
     <item
         is-multidex="true"
+        jar="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_a1c334ba4d9f30726fd9197a083c02c2d5ae4596\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\jhani\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.2\7052283359001bb108753cb0583a887d3bf94c82\okhttp-3.1.2.jar"
         jumboMode="true"
         optimize="true"
@@ -12,21 +21,48 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\jhani\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jar="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="22.0.1"
-        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
-        <dex dex="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.1_6b6f14fdfe0892ecef7a39e2a56d9191ba5f4bba\classes.dex" />
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_65196649005ce804a0539a4789db35afb92b3740\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.0.0\jars\classes.jar"
+        jar="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\libs\volley.jar"
         jumboMode="true"
         optimize="true"
-        revision="22.0.1"
-        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
-        <dex dex="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-22.0.0_2520a5b66eb22d004dca6163ee403fa8d5a09c8f\classes.dex" />
+        revision="24.0.0"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\2\volley_6cb0d2e471f1a6d51ebce13119866b6de5e456b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jhani\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_53bbfc6ef46643a10f7de2b129f25655820f1729\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jhani\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_0d9590abbeb055cd93bbbc95b078265ba7de3ded\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_ac59d4260da127baee375c082ba68eebef850fcb\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -39,6 +75,42 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d857739d86510aed8849f4f5633def6e43d340e1">
+        <dex dex="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_fe35ff65288f5f4e0b84acb756fb5994bd750fe5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
+        <dex dex="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.0.0_2b000374fd6bd6ab074de2d6bef1689bd283e3e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_cd4043ab2a5297df0a1771583f646ef1f6ce01b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_7a2ff10a2dcc42624826ae012c2ebb6212cada0c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
@@ -48,30 +120,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jar="C:\Users\jhani\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.2\7052283359001bb108753cb0583a887d3bf94c82\okhttp-3.1.2.jar"
         jumboMode="true"
         optimize="true"
-        revision="22.0.1"
-        sha1="f8efd0096475e0daf054267b61544e10dc776503">
-        <dex dex="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.1_d2827b31ff7a87318cf3e5a9c411df3fa86fc144\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\22.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
-        <dex dex="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-22.0.0_89f14d91a795edf1576049d413b344a8a4d4cf33\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\22.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
-        <dex dex="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-22.0.0_3a326d72e0dfd0a767f4a5879fec473cdad56a8a\classes.dex" />
+        revision="24.0.0"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.1.2_d703bda62308cfb5cd99db0abc56b5446d2d0b7b\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -93,48 +147,57 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jar="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\24.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="22.0.1"
-        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
-        <dex dex="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.0.0_270d8eef09336decc390c180a1019ef8e0eac595\classes.dex" />
+        revision="24.0.0"
+        sha1="c87270a9d828773c296fadde93e939c8190a6b1b">
+        <dex dex="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-24.0.0_8b485c647661962cf38d01d33486c98d96abfae8\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jar="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="22.0.1"
-        sha1="1821601ddbec5ff125653097812823388700af74">
-        <dex dex="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-22.2.1_cf333bdad77047204a060f588cbae2a82e1ddb8b\classes.dex" />
+        revision="24.0.0"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.0.0_e2374e089e8c6b48872dbb342e2d949b42e4ee76\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\jars\classes.jar"
+        jar="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
-        revision="22.0.1"
-        sha1="c6d79137693d494dee16372d3921f919eb724ced">
-        <dex dex="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-22.0.0_259041f8ac61465971e8316c4406ea22d05cd7d0\classes.dex" />
+        revision="24.0.0"
+        sha1="1c2bb2f2b9f98c8644737f2f033c4fae81ccb481">
+        <dex dex="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5b9ab5bbfc2b0132c90ae18d85b4cdd064dfd006\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jar="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="22.0.1"
-        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
-        <dex dex="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.1_ca9084423d5c7d15d80be3520b9ffc6639d48f1d\classes.dex" />
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_9c63f40c1a124c2226a6406978b752bda33b547b\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jar="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\24.0.0\jars\libs\internal_impl-24.0.0.jar"
         jumboMode="true"
         optimize="true"
-        revision="22.0.1"
-        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
-        <dex dex="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.1_70be34226fe1bfe35598f3d08db7cebc1e15cc38\classes.dex" />
+        revision="24.0.0"
+        sha1="61fd2644ca586288d0e733377d12b5f6da18c4ca">
+        <dex dex="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_8efb84c3eedf58302690acd284477b2f51831206\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\build\intermediates\exploded-aar\com.android.support\design\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.0.0_374a1ccde9a384b8284d3d62ae0756c52e352aa8\classes.dex" />
     </item>
 
 </items>

@@ -108,7 +108,7 @@ public class ArticleDetailActivity extends ActionBarActivity
         }
 
         //Snackbar.make(findViewById(android.R.id.coo), "Swipe horizontally to view other contents !!", Snackbar.LENGTH_LONG).show();
-//        Snackbar.make(this.findViewById(R.id.coordinator), "Swipe horizontally to view other contents !!", Snackbar.LENGTH_LONG).show();
+        Snackbar.make(findViewById(android.R.id.content), "Swipe horizontally to view other contents !!", Snackbar.LENGTH_LONG).show();
     }
 
     @Override

@@ -109,13 +109,15 @@
         android:id="@+id/share_fab"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:layout_alignParentRight="true"
-        android:layout_marginBottom="@dimen/activity_vertical_margin"
-        android:layout_marginRight="@dimen/activity_horizontal_margin"
         android:elevation="@dimen/fab_elevation"
         android:src="@drawable/ic_share"
-        android:layout_gravity="bottom|right"
-        android:contentDescription="@string/action_share" />
+        app:layout_anchor="@id/meta_bar"
+        app:fabSize="mini"
+        android:layout_marginRight="24dp"
+        android:layout_marginBottom="24dp"
+        app:layout_anchorGravity="top|right|end"
+        android:contentDescription="@string/action_share"
+        app:pressedTranslationZ="12dp"
+        app:rippleColor="@android:color/transparent"/>
 
 </android.support.design.widget.CoordinatorLayout>
