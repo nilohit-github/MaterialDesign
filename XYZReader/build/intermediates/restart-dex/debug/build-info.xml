@@ -4,7 +4,7 @@
     density="xxxhdpi"
     format="8"
     plugin-version="2.2.0"
-    timestamp="605501123861284"
+    timestamp="609233267388733"
     token="4461487421363999476"
     verifier="COMPATIBLE" >
 
@@ -26,14 +26,14 @@
         type="RESOURCES" />
 
     <build
-        timestamp="605190644709671"
+        timestamp="608693575816858"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\build\outputs\apk\XYZReader-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="605501123861284"
+        timestamp="609233267388733"
         verifier="COMPATIBLE" >
         <artifact
             location="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
