@@ -27,14 +27,12 @@
                 <!--suppress AndroidLintContentDescription -->
                 <ImageView
                     android:id="@+id/photo"
-                    android:layout_width="100dp"
-                    android:layout_height="100dp"
-                     />
-
-                <View
                     android:layout_width="match_parent"
-                    android:layout_height="112dp"
-                    android:background="@drawable/photo_background_protection" />
+                    android:layout_height="match_parent"
+                    android:adjustViewBounds="true"
+                    android:scaleType = "centerCrop"
+                    android:fitsSystemWindows="true"/>
+
 
             </FrameLayout>
 
@@ -51,13 +49,13 @@
                 <LinearLayout
                     android:id="@+id/meta_bar"
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
+                    android:layout_height="match_parent"
                     android:background="#333"
                     android:layout_gravity="bottom"
                     android:orientation="vertical"
                     android:paddingLeft="@dimen/detail_inner_horiz_margin"
                     android:paddingRight="@dimen/detail_inner_horiz_margin"
-                    android:paddingTop="@dimen/detail_metabar_vert_padding"
+                    
                     android:paddingBottom="@dimen/detail_metabar_vert_padding"
                     android:layout_marginBottom="@dimen/detail_metabar_vert_padding">
 

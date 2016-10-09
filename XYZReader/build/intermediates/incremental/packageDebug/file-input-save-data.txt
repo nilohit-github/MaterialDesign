@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat Oct 08 16:21:11 CDT 2016
+#Sat Oct 08 20:53:20 CDT 2016
 210.set=ANDROID_RESOURCE
 14.set=DEX
 180.file=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v17\\notification_template_lines.xml
@@ -38,7 +38,7 @@
 115.file=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v17\\notification_template_media.xml
 49.set=ANDROID_RESOURCE
 92.file=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\switch_thumb_material_dark.xml
-244.file=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_btn_colored_material.xml
+244.file=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\anim\\abc_slide_out_top.xml
 167.file=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml
 198.base=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_
 121.base=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_
@@ -49,7 +49,6 @@
 100.set=ANDROID_RESOURCE
 206.set=ANDROID_RESOURCE
 0.file=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_48dp.png
-252.set=ANDROID_RESOURCE
 193.set=ANDROID_RESOURCE
 56.set=ANDROID_RESOURCE
 19.base=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_
@@ -108,7 +107,7 @@
 93.file=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\design_navigation_item.xml
 147.base=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_
 59.set=ANDROID_RESOURCE
-245.file=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\anim\\abc_slide_out_top.xml
+245.file=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_popup_background_mtrl_mult.9.png
 168.file=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_screen_content_include.xml
 199.base=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_6
 122.base=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_
@@ -174,13 +173,12 @@
 94.file=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_action_bar_up_container.xml
 148.base=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_
 69.set=ANDROID_RESOURCE
-246.file=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_popup_background_mtrl_mult.9.png
+246.file=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml
 169.file=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_36dp.png
 200.base=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_
 123.base=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-24.0.0_8efb84c3eedf58302690acd284477b2f51831206
 221.file=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_cab_background_top_material.xml
 144.file=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\abc_tint_spinner.xml
-252.base=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_
 175.base=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\com.android.support-support-vector-drawable-24.0.0_ac59d4260da127baee375c082ba68eebef850fcb
 120.set=DEX
 226.set=ANDROID_RESOURCE
@@ -243,7 +241,7 @@
 95.file=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v17\\select_dialog_singlechoice_material.xml
 149.base=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\com.android.support-animated-vector-drawable-24.0.0_a1c334ba4d9f30726fd9197a083c02c2d5ae4596
 79.set=ANDROID_RESOURCE
-247.file=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml
+247.file=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_16dp.png
 201.base=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_
 70.file=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v17\\notification_template_big_media_narrow.xml
 124.base=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_
@@ -307,7 +305,7 @@
 119.file=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_ic_clear_material.xml
 96.file=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml
 89.set=ANDROID_RESOURCE
-248.file=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_16dp.png
+248.file=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_cab_background_internal_bg.xml
 202.base=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_
 71.file=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\abc_tint_switch_track.xml
 125.base=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_
@@ -373,7 +371,7 @@
 104.set=DEX
 97.file=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png
 20.file=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\notification_template_big_media_narrow.xml
-249.file=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_cab_background_internal_bg.xml
+249.file=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v17\\select_dialog_multichoice_material.xml
 203.base=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_
 72.file=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png
 126.base=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_
@@ -428,7 +426,7 @@
 198.file=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\abc_search_url_text.xml
 121.file=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\anim-v21\\design_bottom_sheet_slide_in.xml
 0.base=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_
-250.file=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v17\\select_dialog_multichoice_material.xml
+250.file=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\design_menu_item_action_area.xml
 173.file=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_screen_toolbar.xml
 107.set=ANDROID_RESOURCE
 153.set=ANDROID_RESOURCE
@@ -453,7 +451,7 @@
 181.base=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_
 121.set=ANDROID_RESOURCE
 227.set=ANDROID_RESOURCE
-count=253
+count=252
 27.base=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_
 77.set=ANDROID_RESOURCE
 79.base=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_
@@ -496,7 +494,7 @@ count=253
 122.file=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png
 13.set=ANDROID_RESOURCE
 1.base=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_
-251.file=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\design_menu_item_action_area.xml
+251.file=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png
 174.file=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_action_bar_title_item.xml
 117.set=ANDROID_RESOURCE
 1.set=ANDROID_RESOURCE
@@ -566,7 +564,6 @@ count=253
 123.file=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-24.0.0_8efb84c3eedf58302690acd284477b2f51831206\\classes.dex
 23.set=DEX
 2.base=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\com.android.support-support-v4-24.0.0_9c63f40c1a124c2226a6406978b752bda33b547b
-252.file=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png
 175.file=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\com.android.support-support-vector-drawable-24.0.0_ac59d4260da127baee375c082ba68eebef850fcb\\classes.dex
 150.file=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png
 127.set=DEX
@@ -728,7 +725,7 @@ count=253
 114.file=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_edit_text_material.xml
 39.set=DEX
 91.file=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png
-243.file=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v21\\activity_article_list.xml
+243.file=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_btn_colored_material.xml
 166.file=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png
 197.base=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_
 120.base=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_0
