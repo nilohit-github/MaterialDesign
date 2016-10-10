@@ -2613,11 +2613,12 @@ containing a value of this type.
         public static final int empty_detail=0x7f02004f;
         public static final int ic_arrow_back=0x7f020050;
         public static final int ic_share=0x7f020051;
-        public static final int logo=0x7f020052;
-        public static final int notification_template_icon_bg=0x7f020056;
-        public static final int padded_divider=0x7f020053;
-        public static final int photo_background_protection=0x7f020054;
-        public static final int white_selectable_item_background_circle=0x7f020055;
+        public static final int image=0x7f020052;
+        public static final int logo=0x7f020053;
+        public static final int notification_template_icon_bg=0x7f020057;
+        public static final int padded_divider=0x7f020054;
+        public static final int photo_background_protection=0x7f020055;
+        public static final int white_selectable_item_background_circle=0x7f020056;
     }
     public static final class fraction {
         public static final int detail_body_line_spacing_multiplier=0x7f0a0000;
@@ -2661,6 +2662,7 @@ containing a value of this type.
         public static final int clip_horizontal=0x7f0d002d;
         public static final int clip_vertical=0x7f0d002e;
         public static final int collapseActionView=0x7f0d0036;
+        public static final int collapsing_toolbar=0x7f0d007e;
         public static final int contentPanel=0x7f0d004c;
         public static final int coor=0x7f0d006c;
         public static final int coordinator=0x7f0d007d;
@@ -2674,7 +2676,6 @@ containing a value of this type.
         public static final int design_menu_item_text=0x7f0d007a;
         public static final int design_navigation_view=0x7f0d0079;
         public static final int disableHome=0x7f0d000e;
-        public static final int draw_insets_frame_layout=0x7f0d007e;
         public static final int edit_query=0x7f0d005f;
         public static final int end=0x7f0d0025;
         public static final int end_padder=0x7f0d0095;

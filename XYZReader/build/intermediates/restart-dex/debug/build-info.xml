@@ -4,40 +4,33 @@
     density="xxxhdpi"
     format="8"
     plugin-version="2.2.0"
-    timestamp="609233267388733"
+    timestamp="632581027976680"
     token="4461487421363999476"
-    verifier="COMPATIBLE" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="1235" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="57" />
     <task
         name="verifier"
-        duration="0" />
+        duration="15" />
 
     <artifact
-        location="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-        type="RESOURCES" />
+        location="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\build\outputs\apk\XYZReader-debug.apk"
+        type="MAIN" />
 
     <build
-        timestamp="608693575816858"
+        timestamp="632581027976680"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\build\outputs\apk\XYZReader-debug.apk"
             type="MAIN" />
-    </build>
-    <build
-        timestamp="609233267388733"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="C:\Users\jhani\AndroidStudioProjects\MaterialDesign\XYZReader\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-            type="RESOURCES" />
     </build>
 
 </instant-run>
