@@ -1,7 +1,0 @@
-#Mon Oct 10 21:45:53 CDT 2016
-base.0=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_fe35ff65288f5f4e0b84acb756fb5994bd750fe5
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_5b9ab5bbfc2b0132c90ae18d85b4cdd064dfd006\\classes.dex
-base.1=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_5b9ab5bbfc2b0132c90ae18d85b4cdd064dfd006
-file.0=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_fe35ff65288f5f4e0b84acb756fb5994bd750fe5\\classes.dex
