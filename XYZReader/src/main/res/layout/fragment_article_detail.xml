@@ -146,11 +146,10 @@
         android:layout_height="wrap_content"
         android:elevation="@dimen/fab_elevation"
         android:src="@drawable/ic_share"
-        app:layout_anchor="@id/toolbar"
         app:fabSize="mini"
         android:layout_marginRight="24dp"
         android:layout_marginBottom="24dp"
-        app:layout_anchorGravity="center|right|end"
+        android:layout_gravity="right|bottom"
         android:contentDescription="@string/action_share"
         app:pressedTranslationZ="12dp"
         app:rippleColor="@android:color/transparent"/>
