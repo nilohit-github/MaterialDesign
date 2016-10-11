@@ -1,4 +1,4 @@
-#Sun Oct 09 19:48:49 CDT 2016
+#Mon Oct 10 21:45:53 CDT 2016
 base.0=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_fe35ff65288f5f4e0b84acb756fb5994bd750fe5
 renamed.1=classes.dex
 renamed.0=classes2.dex

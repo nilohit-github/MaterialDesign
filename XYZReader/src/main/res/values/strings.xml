@@ -1,6 +1,7 @@
 <resources>
 
     <string name="app_name"></string>
+    <string name="detail_page">Description</string>
     <string name="welcome_xyz_reader">Welcome to XYZ Reader!</string>
 
     <string name="action_refresh">Refresh</string>

@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun Oct 09 19:48:45 CDT 2016
+#Mon Oct 10 21:47:24 CDT 2016
 210.set=ANDROID_RESOURCE
 14.set=ANDROID_RESOURCE
 180.file=C\:\\Users\\jhani\\AndroidStudioProjects\\MaterialDesign\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\design_navigation_menu_item.xml
